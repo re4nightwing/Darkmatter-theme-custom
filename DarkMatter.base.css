@@ -77,7 +77,7 @@ button {
 /* Scrollbars */
 
  ::-webkit-scrollbar {
-	width: 14px !important;
+	width: 10px !important;
 }
 
  ::-webkit-scrollbar-thumb {
